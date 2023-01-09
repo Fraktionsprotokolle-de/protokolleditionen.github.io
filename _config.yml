@@ -3,13 +3,13 @@
 #
 
 # Site locale
-lang: "en"
+lang: "de"
 
 # Name of your site (displayed in the header)
-title: Forever Jekyll
+title: Arbeitskreis Digitale Protokolleditionen
 
 # Short bio or description (displayed in the header)
-description: A simple, elegant and full featured Jekyll theme
+description: Dies ist die Webseite des Arbeitskreises Digitale Protokolleditionen
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /assets/image/avatar.png
@@ -20,7 +20,7 @@ avatar: /assets/image/avatar.png
 
 # Your website URL (e.g. https://forever-jekyll.github.io or https://forever-jekyll.com)
 # Used for Sitemap.xml and your RSS feed
-url: https://forever-jekyll.github.io
+url: www.protokolleditionen.eu
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
@@ -30,10 +30,10 @@ baseurl: ""
 
 # Navigation menu
 navigation_links:
-  - title: Blog
+  - title: Aktuelles
     url: /
 
-  - title: About
+  - title: Über den Arbeitskreis
     url: /about
 
   - title: Search
