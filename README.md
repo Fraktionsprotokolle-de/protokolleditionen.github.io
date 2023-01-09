@@ -1,2 +1,2 @@
 # protokolleditionen.github.io
-Webseite des Arbeitskreises Digitale Protokolleditionen
+Daten hzur Webseite des Arbeitskreises Digitale Protokolleditionen - protokolleditionen.eu
