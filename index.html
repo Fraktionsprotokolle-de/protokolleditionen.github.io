@@ -1,12 +1,17 @@
 ---
 layout: default
 ---
+<section class="about">
+  <p>Der Arbeitskreis versammelt Interessierte am Austausch über das digitale Edieren von Protokollen und anderen administrativen Textsorten (meist in <a href="https://tei-c.org" target="_blank">TEI-XML</a>).</p>
+</section>
 
-<div class="posts">
+<section class="posts">
+  <h1>Aktuelles</h1>
+
   {% for post in paginator.posts %}
   <article class="post">
 
-    <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+    <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
 
     <div class="entry">
       {% if post.content contains '<!--more-->' %}
@@ -25,4 +30,4 @@ layout: default
   {% endfor %}
 
   {% include pagination.html %}
-</div>
+</section>
