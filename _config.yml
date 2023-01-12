@@ -54,7 +54,7 @@ footer_links:
     icon: fa fa-github-square
 
 # Enter your copyright text if you wish to override the default one.
-copyright: "Copyright by KGParl – [Impressum](https://kgparl.de/impressum) & [Datenschutz](https://kgparl.de/datenschutz)"
+copyright: "[Impressum](/impressum)"
 
 # Time zone
 timezone: Europe/Berlin
