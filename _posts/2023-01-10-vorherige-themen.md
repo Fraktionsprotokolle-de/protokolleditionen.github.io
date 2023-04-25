@@ -8,6 +8,7 @@ Bei den bislang nach der umfassenden Initialzündung bei der DHd2022 (Panel [»P
 
 - Fragen der Lizenzierung und des (urheber)rechtlichen Status administrativer Daten (2022-05-17)
 - Verwaltung von »Bibliodaten« (bibliografischen Daten und Verwandtem) mithilfe offener Standards und Tools, v.a. [Zotero](https://zotero.org) im TEI-Kontext (2022-10-18)
+- Kalendarische Darstellungsweisen ([2023-04-25]({% post_url 2023-04-25-Treffen-des-Arbeitskreises %}))
 
 In Vorbereitung ist darüber hinaus ein Austauschformat zu Protokoll-Metadaten (Institution, Datum, Ort, Tagesordnung usf.) etwa zur Darstellung in einem föderierten Kalender. 
 
