@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Sitzung des Arbeitskreises
+title: Sitzung des Arbeitskreises 
 categories: [Aktuelles]
 ---
 
-Bei der turnusmäßigen Sitzung vom 25. April 2023 wurden wie gehabt Zwischenstände und Neuerungen bei den beteiligten Protokolleditionen ausgetauscht. Von allgemeinem Interesse sind davon zuletzt die folgenden Erweiterungen der Editionen, die sich auf Kalendervisualisierungen beziehen: 
+Bei der turnusmäßigen Sitzung vom 25. April 2023 wurden wie gehabt Zwischenstände und Neuerungen bei den beteiligten Protokolleditionen ausgetauscht. Von allgemeinem Interesse sind davon zuletzt die folgenden Erweiterungen der Editionen, die sich auf Kalendervisualisierungen beziehen. <!--more-->
 
 - [Die Protokolle des Bayerischen Ministerrats 1945-1962 Online](https://www.bayerischer-ministerrat.de/) integriert bereits seit einiger Zeit in der [Kalenderansicht](https://www.bayerischer-ministerrat.de/index.php?visual=calendar) neben den Sitzungsprotokollen und deren Tagesordnungspunkten auch andere editionsrelevante politikgeschichtliche Ereignisse.
 - Die Edition der Protokolle der [Fraktionen im Deutschen Bundestag](https://fraktionsprotokolle.de/) verfügt nun über eine hilfreiche [Kalenderansicht](https://fraktionsprotokolle.de/kalender.htm). Sie erlaubt eine die Fraktionen übergreifende Zusammenschau der überlieferten und edierten Protokolle.
