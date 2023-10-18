@@ -18,7 +18,7 @@ Im Moment treffen sich die Mitglieder des Arbeitskreises mindestens zwei Mal im 
 
 Stand Januar 2023 umfasst der Arbeitskreis folgende Editionsprojekte, Institutionen und Personen:
 
-- [Digitale Edition »Die Ministerratsprotokolle Österreichs und der Österreichisch-Ungarischen Monarchie 1848–1918«](https://mrp.oeaw.ac.at/)
+- [Digitale Edition »Die Ministerratsprotokolle Österreichs und der Österreichisch-Ungarischen Monarchie 1848–1918«](https://mrp.oeaw.ac.at/) [https://fedihum.org/@MinisterratCis/](@MinisterratCis)
 - [Die Protokolle des Bayerischen Ministerrats 1945–1962 Online](https://www.bayerischer-ministerrat.de/)
 - Edition der bayerischen Ministerratsprotokolle 1919–1945
 - Edition »Der Deutsche Gewerkschaftsbund 1975–1982«
