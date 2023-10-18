@@ -9,8 +9,8 @@ permalink: /impressum
 Mag. Dr. Stephan Kurz  
 Österreichische Akademie der Wissenschaften  
 Institute for Habsburg and Balkan Studies  
-Hollandstr. 11–13  
-1020 Wien  
+Dominikanerbastei 16/3. OG  
+1010 Wien  
 *Kontakt*: Telefon: +43-1-51581-7321 · E-Mail: [stephan.kurz@oeaw.ac.at](mailto:stephan.kurz@oeaw.ac.at)
 
 ## Redaktionell verantwortlich
@@ -24,6 +24,6 @@ Schiffbauerdamm 40
 [Mag. Dr. Stephan Kurz](mailto:stephan.kurz@oeaw.ac.at)  
 Österreichische Akademie der Wissenschaften  
 Institute for Habsburg and Balkan Studies  
-Hollandstr. 11–13  
-1020 Wien  
+Dominikanerbastei 16/3. OG  
+1010 Wien  
 
