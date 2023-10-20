@@ -27,3 +27,7 @@ Institute for Habsburg and Balkan Studies
 Dominikanerbastei 16/3. OG  
 1010 Wien  
 
+## Logo
+
+Das Logo des Arbeitskreises wurde von Sylvia Rochow (KGParl) entworfen.
+
