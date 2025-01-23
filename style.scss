@@ -12,7 +12,7 @@ body {
   font-family: $sans-font-family;
   font-weight: 400;
   font-size: 18px;
-  line-height: 1.66666666667;
+  line-height: 1.5;
   color: $darkGray;
   -webkit-text-size-adjust: 100%;
   text-rendering: optimizeLegibility;
@@ -50,7 +50,7 @@ h1, h2, h3, h4, h5, h6 {
   color: $darkerGray;
   font-family: $sans-font-family;
   font-weight: 700;
-  line-height: 1.66666666667;
+  line-height: 1.35;
 }
 
 h1 {
