@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Für das Protokoll: Literaturhinweis zum Protokoll'
-categories: [Aktuelles]
+categories: [Aktuelles, Veröffentlichungen]
 ---
 
 Anzuzeigen ist: 
@@ -22,13 +22,13 @@ EPUB und PDF zum CC-BY-lizenzierten Download.
 - Protokollbücher als Steuerung von Entscheidungsprozessen. Die Kabinettskanzlei und der Schreibtisch des Kaisers (Peter Becker)
 
 #### II Mitschriften 
- 
+
 - Administrativ-politische und editorisch-technische Protokolle. Der cisleithanische Ministerrat 1848–1918 (Stephan Kurz)
 - »…für die aufmerksamen Zuhörer eine Pein, für die unaufmerksamen ein Schlafmittel«. Protokolle, Unmittelbarkeit und Wahrheitsfindung im Disziplinarakt öffentlich Bediensteter (Therese Garstenauer)
 - Die Eitelkeit der Organisation. Protokolle als Vor- und Mitschriften formaler Mitgliedschaft (Maren Lehmann)
 - Protocol Analysis. Materialien zu einer Kritik; oder Wo bleibt das richtige Protokoll? (Thomas Eder)
 - Das Protokoll gibt es nicht (Thomas Just)
- 
+
 #### III Techniken
 
 - Protokollieren und Formatieren. Zur Mediengeschichte des credit reports (Sebastian Gießmann)
@@ -36,7 +36,7 @@ EPUB und PDF zum CC-BY-lizenzierten Download.
 - Über das Protokoll hinaus. Zum Verhältnis von Kontingenz und algorithmischer Kontrolle im militärisch-polizeilichen Phantasma der Automation (Nina Franz)
 - Offene Totalität. Internetprotokolle in der spätkapitalistischen Gesellschaft (Anna Tuschling)
 - Vor- & Mit-Schriften zweiter Ordnung. Das administrative Protokoll und sein Apparat (Peter Plener)
- 
+
 #### IV Schreibweisen
 
 - Punkte und Linien. Zum Sünden-Protokoll in Ignatius von Loyolas Exercitia spiritualia (Andreas Bähr)
