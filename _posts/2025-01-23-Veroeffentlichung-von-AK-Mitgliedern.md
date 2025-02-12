@@ -4,7 +4,7 @@ title: 'Neue Veröffentlichung von Mitgliedern des Arbeitskreises'
 categories: [Aktuelles, Veröffentlichungen]
 ---
 
-Anzuzeigen ist:
+*Anzuzeigen ist:*
 
 Sven Jüngerkes / Maximilian Kruse: Das Editionsprogramm ›Fraktionen im Deutschen Bundestag 1949 –2005‹. In: Zeitschrift für digitale Geisteswissenschaften 9 (2024). 21.11.2024. HTML / XML / PDF. DOI: [10.17175/2024_007](https://doi.org/10.17175/2024_007)
 

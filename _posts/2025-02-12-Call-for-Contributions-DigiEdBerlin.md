@@ -3,11 +3,12 @@ layout: post
 title: 'Call for Contributions: »Digitale Editionen der Zeitgeschichte zwischen KI und Linked Open Data: Herausforderungen und Perspektiven«'
 categories: [Aktuelles, Workshop]
 ---
-Aus den Reihen der Arbeitskreismitglieder:
+*Aus den Reihen der Arbeitskreismitglieder:*
 
 Zum 5-jährigen Bestehen der digitalen TEI-Edition »Fraktionen im Deutschen Bundestag. Sitzungsprotokolle 1949 bis 2005« ([fraktionsprotokolle.de](https://fraktionsprotokolle.de)) lädt die [KGParl](https://kgparl.de) ExpertInnen aus den Digital Humanities, der Editionswissenschaft und angrenzenden Disziplinen am 4./5. Dezember 2025 zum Workshop »Digitale Editionen der Zeitgeschichte zwischen KI und Linked Open Data: Herausforderungen und Perspektiven« in Berlin ein.
 
 <!--more-->
+
 <div style="text-align: center;">
   <img src="/assets/image/2025-02-12-DigiEdDallE.jpg" alt="Buch als CPU in einem PCB (KI generiert)">
 </div>

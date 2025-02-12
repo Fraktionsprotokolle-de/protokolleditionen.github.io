@@ -4,7 +4,7 @@ title: 'Für das Protokoll: Literaturhinweis zum Protokoll'
 categories: [Aktuelles, Veröffentlichungen]
 ---
 
-Anzuzeigen ist: 
+*Anzuzeigen ist:* 
 
 Plener, Peter; Werber, Niels; Wolf, Burkhardt: Das Protokoll. Berlin, Heidelberg: Springer/Metzler 2023 (= AdminiStudies. Formen und Medien der Verwaltung; 2). [https://doi.org/10.1007/978-3-662-66896-2](https://doi.org/10.1007/978-3-662-66896-2)
 
