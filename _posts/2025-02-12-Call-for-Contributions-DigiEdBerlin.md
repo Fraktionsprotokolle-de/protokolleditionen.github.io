@@ -9,11 +9,9 @@ Zum 5-jährigen Bestehen der digitalen TEI-Edition »Fraktionen im Deutschen Bun
 
 <!--more-->
 
-<div style="text-align: left; margin-top: 20px; margin-bottom: 20px;">
-<figure>
+<div style="text-align: left; margin-top: 25px; margin-bottom: 25px;">
   <img src="/assets/image/2025-02-12-DigiEdDallE.jpg" alt="Buch als CPU in einem PCB (KI generiertes Bild)">
-   <figcaption style="font-size: 10px; color: #666;">(Symbolbild mit Dall-E erzeugt.)</figcaption>
-  </figure>
+  <div style="font-size: 10px; color: #666; margin-top: 5px;">Symbolbild (Dall-E)</div>
 </div>
 
 Ziel des Workshops ist es, die Auswirkungen von Künstlicher Intelligenz, Großen Sprachmodellen und Linked Open Data auf digitale Editionen zu diskutieren – mit besonderem Fokus auf politischen, verwaltungsbezogenen und diplomatischen Quellen wie Parlaments- und Fraktionsprotokollen, Verordnungen oder Kabinettsakten.
