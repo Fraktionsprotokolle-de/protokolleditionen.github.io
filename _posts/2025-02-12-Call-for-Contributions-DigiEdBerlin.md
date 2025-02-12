@@ -9,7 +9,7 @@ Zum 5-jährigen Bestehen der digitalen TEI-Edition »Fraktionen im Deutschen Bun
 
 <!--more-->
 
-<div style="text-align: center;">
+<div style="text-align: left; margin-top: 20px; margin-bottom: 20px;">
   <img src="/assets/image/2025-02-12-DigiEdDallE.jpg" alt="Buch als CPU in einem PCB (KI generiert)">
 </div>
 
