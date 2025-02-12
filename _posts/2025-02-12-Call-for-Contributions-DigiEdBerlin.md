@@ -9,11 +9,13 @@ Zum 5-jährigen Bestehen der digitalen TEI-Edition »Fraktionen im Deutschen Bun
 
 <!--more-->
 <div style="float: right; margin-left: 15px;">
-  <img src="/assets/images/2025-02-12-DigiEdDallE.jpg" alt="Beschreibung" width="200">
+  <img src="/assets/image/2025-02-12-DigiEdDallE.jpg" alt="Buch als CPU in einem PCB (KI generiert)">
 </div>
 
 Ziel des Workshops ist es, die Auswirkungen von Künstlicher Intelligenz, Großen Sprachmodellen und Linked Open Data auf digitale Editionen zu diskutieren – mit besonderem Fokus auf politischen, verwaltungsbezogenen und diplomatischen Quellen wie Parlaments- und Fraktionsprotokollen, Verordnungen oder Kabinettsakten.
+
 <div style="clear: both;"></div>
+
 Im Mittelpunkt steht die Frage, welche methodischen und technischen Innovationen erforderlich sind, um digitale Editionen parlamentarisch-administrativer Quellen langfristig nachhaltig, interoperabel und wissenschaftlich nutzbar zu machen.
 
 → [Zum ausführlichen Call for Contributions](https://kgparl.de/wp-content/uploads/2025/02/call-for-contribution-workshop-kgparl-digied-2025-1.pdf)
