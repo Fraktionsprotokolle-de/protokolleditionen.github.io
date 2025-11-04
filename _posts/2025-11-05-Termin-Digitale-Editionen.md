@@ -4,6 +4,7 @@ title: 'Termin: Digitale Editionen der Zeitgeschichte zwischen KI und Linked Ope
 categories: [Aktuelles, Termine]
 ---
 Am 4. und 5. Dezember 2025 findet in den Räumen der [Kommission für Geschichte des Parlamentarismus und der politischen Parteien (KGParl)](https://kgparl.de) in Berlin der Workshop »Digitale Editionen zwischen KI und Linked Open Data« statt.
+
 <!--more-->
 
 Die Veranstaltung untersucht, wie Künstliche Intelligenz (KI), Große Sprachmodelle (LLMs) und Linked Open Data (LOD) die Arbeit an digitalen Editionen historischer Quellen verändern. Im Mittelpunkt stehen historische Materialien mit politischem, administrativem und diplomatischem Bezug – etwa parlamentarische Protokolle, Kabinettsakten und Verordnungen.
