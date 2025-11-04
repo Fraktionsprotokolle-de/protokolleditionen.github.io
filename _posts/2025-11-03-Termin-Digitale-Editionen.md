@@ -13,7 +13,7 @@ Ziel des Workshops ist es, die Auswirkungen neuer Technologien auf editorische S
 
 Die Veranstaltung versammelt Expertinnen und Experten aus Editionswissenschaft, Digital Humanities und Informatik, um Perspektiven für eine zukunftsfähige, KI-gestützte und semantisch vernetzte Editorik zu entwickeln.
 
-Hinweis: Der Workshop wird zusätzlich über Zoom übertragen. **Eine digitale Teilnahme ist auch möglich.** Eine Anmeldung wird per E-Mail an [kruse@kgparl.de](kruse@kgparl.de) erbeten.
+Hinweis: Der Workshop wird zusätzlich über Zoom übertragen. **Eine digitale Teilnahme ist auch möglich.** Eine Anmeldung wird per E-Mail an[kruse@kgparl.de](mailto:kruse@kgparl.de) erbeten.
 
 **<u>Programm</u>**
 
