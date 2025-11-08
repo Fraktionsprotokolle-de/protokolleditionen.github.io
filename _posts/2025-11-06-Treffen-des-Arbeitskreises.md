@@ -11,6 +11,12 @@ Auf Einladung der [Kommission für Geschichte des Parlamentarismus und der polit
 
 <!--more-->
 
+<div style="text-align: left; margin-top: 25px; margin-bottom: 25px;">
+  <img src="/assets/image/2025-11-06-Gruppenfoto-KGParl.jpg" alt="Gruppenbild:  Nils Heun, Anatol Schmied-Kowarzik, Maximilian Schrott, Sven Jüngerkes, Cornelia Baddack, Stephan Kurz, Barbara von Hindenburg, Nadine Arndt (v.l.n.r.)">
+  <div style="font-size: 12px; color: #666; margin-top: 4px;">Der Arbeitskreis bei der Arbeit in Berlin (KGParl).</div>
+</div>
+
+
 Besprochen wurden unter anderem Neuigkeiten aus den Editionen, Berichte von verschiedenen Konferenzteilnahmen durch die Projekte, der Rücklauf zur ([Umfrage]({% post_url 2025-04-13-Umfrage %})) sowie der aktuelle Stand bei der Verschlagwortung der edierten Dokumente mithilfe kontrollierter Vokabularien. 
 
 Ein weiterer Schwerpunkt lag auf dem Austausch zu den vielfältigen Methoden der Editionsvorhaben im Bereich Öffentlichkeitsarbeit: von der universitären Lehre bis zu Präsentationsveranstaltungen, von Social Media-Beiträgen bis zum Setzen von Links in Wikipedia und WikiData).
