@@ -12,8 +12,8 @@ Auf Einladung der [Kommission für Geschichte des Parlamentarismus und der polit
 <!--more-->
 
 <div style="text-align: left; margin-top: 25px; margin-bottom: 25px;">
-  <img src="/assets/image/2025-11-06-Gruppenfoto-KGParl.jpg" alt="Gruppenbild:  Nils Heun, Anatol Schmied-Kowarzik, Maximilian Schrott, Sven Jüngerkes, Cornelia Baddack, Stephan Kurz, Barbara von Hindenburg, Nadine Arndt (v.l.n.r.)">
-  <div style="font-size: 12px; color: #666; margin-top: 4px;">Der Arbeitskreis bei der Arbeit in Berlin (KGParl).</div>
+  <img src="/assets/image/2025-11-06-Gruppenfoto-KGParl.jpg" alt="Gruppenbild:  Nils Heun,Sven Jüngerkes, Maximilian Kruse,  Anatol Schmied-Kowarzik, Stephan Kurz, Nadine Arndt ,  Cornelia Baddack, Barbara von Hindenburg, Cordula Greinert, Elisa Bruchhäuser, Maximilian Schrott (v.l.n.r.)">
+  <div style="font-size: 12px; color: #666; margin-top: 4px;">Der Arbeitskreis bei der Arbeit in Berlin/KGParl (Gruppenbild:  Nils Heun,Sven Jüngerkes, Maximilian Kruse,  Anatol Schmied-Kowarzik, Stephan Kurz, Nadine Arndt ,  Cornelia Baddack, Barbara von Hindenburg, Cordula Greinert, Elisa Bruchhäuser, Maximilian Schrott (v.l.n.r.).</div>
 </div>
 
 
