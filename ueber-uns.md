@@ -25,6 +25,7 @@ Stand Januar 2023 umfasst der Arbeitskreis folgende Editionsprojekte, Institutio
 - Edition »[Fraktionen im Deutschen Bundestag 1949–2005«](https://fraktionsprotokolle.de)
 - Edition »[Die Kabinettsprotokolle der Bundesregierung](https://kabinettsprotokolle.bundesarchiv.de/)«
 - Edition »[Die Kabinettsprotokolle der Landesregierung von Nordrhein-Westfalen](https://kabinettsprotokolle.landesarchiv-nrw.de/)«
+- Hybride Edition »[Die Protokolle des österreichischen Kabinettsrates 1919-1920](https://doi.org/10.55776/PAT1495024)«
 
 ------
 
