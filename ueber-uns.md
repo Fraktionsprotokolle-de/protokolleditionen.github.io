@@ -8,7 +8,7 @@ Administrative Textsorten, darunter prominent das Protokoll, stehen im Zentrum j
 
 Der Arbeitskreis entstand aus der gemeinsamen Arbeit und Beteiligung am Panel [»Protokolle: Modellierung einer administrativen Textsorte«](https://www.dhd2022.de/programm-events/11-03-freitag/) im Rahmen der 8. Jahrestagung des *Verbands »Digital Humanities im deutschsprachigen Raum«* vom 7. bis zum 11. März 2022 (DHd 2022 – Book of Abstracts siehe [Zenodo](https://doi.org/10.5281/zenodo.6304589)). Inzwischen beteiligen sich aber auch Personen und Institutionen am Arbeitskreis, die an der ursprünglichen Tagung nicht teilgenommen haben.  Wir haben uns zum Ziel gesetzt, die lockere Vernetzung von Menschen zu fördern, die im Fach Geschichte, in Archiven oder anderen Institutionen und Disziplinen an digitalen Editionen von historischen Protokollen aller Art arbeiten. Wir interessieren uns außerdem dafür, wie Daten und Applikationen (technisch) verfasst sein müssen, um der Gedächtnisfunktion von historischen »open governmental data« gerecht zu werden. 
 
-Im Moment treffen sich die Mitglieder des Arbeitskreises mindestens zwei Mal im Jahr via Zoom um über zuvor festgelegte Themen zu sprechen. Für Oktober 2023 ist ein nächster Workshop in München (Historische Kommission bei der Bayerischen Akademie der Wissenschaften) geplant. 
+Im Moment treffen sich die Mitglieder des Arbeitskreises mindestens zwei Mal im Jahr via Zoom um über zuvor festgelegte Themen zu sprechen. Für November 2026 ist ein nächster Workshop in Wien (Österreichische Akademie der Wissenschaften) geplant. 
 
 ------
 
@@ -16,7 +16,7 @@ Im Moment treffen sich die Mitglieder des Arbeitskreises mindestens zwei Mal im 
 
 ## Mitglieder
 
-Stand Januar 2023 umfasst der Arbeitskreis folgende Editionsprojekte, Institutionen und Personen:
+Stand April 2026 umfasst der Arbeitskreis folgende Editionsprojekte, Institutionen und Personen:
 
 - [Digitale Edition »Die Ministerratsprotokolle Österreichs und der Österreichisch-Ungarischen Monarchie 1848–1918«](https://mrp.oeaw.ac.at/) – [https://fedihum.org/@MinisterratCis/](https://fedihum.org/@MinisterratCis)
 - [Die Protokolle des Bayerischen Ministerrats 1945–1962 Online](https://www.bayerischer-ministerrat.de/)
@@ -25,6 +25,8 @@ Stand Januar 2023 umfasst der Arbeitskreis folgende Editionsprojekte, Institutio
 - Edition »[Fraktionen im Deutschen Bundestag 1949–2005«](https://fraktionsprotokolle.de)
 - Edition »[Die Kabinettsprotokolle der Bundesregierung](https://kabinettsprotokolle.bundesarchiv.de/)«
 - Edition »[Die Kabinettsprotokolle der Landesregierung von Nordrhein-Westfalen](https://kabinettsprotokolle.landesarchiv-nrw.de/)«
+- Edition »[Die Protokolle des Ministerrats von Rheinland-Pfalz](https://ministerrat-protokolle.lav.rlp.de/)«
+- Edition »[Die Akten des Kaiserlichen Reichshofrats](https://reichshofratsakten.de/)«
 - Hybride Edition »[Die Protokolle des österreichischen Kabinettsrates 1919-1920](https://doi.org/10.55776/PAT1495024)«
 
 ------
