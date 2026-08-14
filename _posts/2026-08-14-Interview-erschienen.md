@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Interview zu Band VIII/2 (1914–1918) der Cisleithanischen Ministerratsprotokolle' 
+title: Interview zu Band VIII/2 (1914–1918) der Cisleithanischen Ministerratsprotokolle 
 categories: [Aktuelles]
 ---
 
