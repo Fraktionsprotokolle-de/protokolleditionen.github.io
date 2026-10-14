@@ -25,6 +25,6 @@ Der zuletzt erschienene Teilband VIII/2 ist [online](https://mrp.oeaw.ac.at/page
 <!--more-->
 
 <div style="text-align: left; margin-top: 25px; margin-bottom: 25px;">
-  <img src="assets/image/2026-10-14-FlyerCISMRSaveTheDateNL.jpg" alt="Veranstaltungsankündigung mit Text wie oben im Post">
+  <img src="/assets/image/2026-10-14-FlyerCISMRSaveTheDateNL.jpg" alt="Veranstaltungsankündigung mit Text wie oben im Post">
     <div style="font-size: 12px; color: #666; margin-top: 4px;">Veranstaltungsankündigung <a href="https://www.oesta.gv.at/newsletter/oesta-newsletter-Sondernewsletter-MRP.html">https://www.oesta.gv.at/newsletter/oesta-newsletter-Sondernewsletter-MRP.html</a></div>
 </div>
