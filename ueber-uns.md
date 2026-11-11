@@ -27,7 +27,7 @@ Stand April 2026 umfasst der Arbeitskreis folgende Editionsprojekte, Institution
 - Edition »[Die Kabinettsprotokolle der Landesregierung von Nordrhein-Westfalen](https://kabinettsprotokolle.landesarchiv-nrw.de/)«
 - Edition »[Die Protokolle des Ministerrats von Rheinland-Pfalz](https://ministerrat-protokolle.lav.rlp.de/)«
 - Edition »[Die Akten des Kaiserlichen Reichshofrats](https://reichshofratsakten.de/)«
-- Hybride Edition »[Die Protokolle des österreichischen Kabinettsrates 1919-1920](https://doi.org/10.55776/PAT1495024)«
+- Hybride Edition »[Die Protokolle des österreichischen Kabinettsrates 1919–1920](https://doi.org/10.55776/PAT1495024)«
 
 ------
 
