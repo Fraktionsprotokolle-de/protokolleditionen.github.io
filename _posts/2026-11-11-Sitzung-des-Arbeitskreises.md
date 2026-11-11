@@ -12,3 +12,6 @@ Zum Arbeitskreis hinzugestoßen sind bei diesem Anlass erstmals auch die KollegI
 
 Bei einer Exkursion ins österreichische Parlament erhellte nach einer Führung durch das Gebäude auch ein Gespräch mit einer für die [Stenographischen Protokolle](https://www.parlament.gv.at/recherchieren/protokolle/index.html?STENO_211sortrnr=10&STENO_211ascDesc=desc) zuständigen Mitarbeiterin die Umstände, wie Protokolle heutzutage dort verfasst, bearbeitet und überprüft werden. 
 
+Im Rahmenprogramm findet (wegen des Datums besonders passend) auch die Präsentation des Bandes VIII (1914–1918) der Cisleithanischen Ministerratsprotokolle statt: Siehe [hier](/aktuelles/2026/10/14/Praesentation_CMR_VIII_Wien_OeStA/).
+
+
